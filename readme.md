@@ -14,4 +14,4 @@ One application with a view returning a "Hello World!" string.
 - Run on a terminal
   `python manage.py runserver`
 
-- Access http://127.0.0.1:8000/ from a browser
+- Access http://127.0.0.1:8000/admin from a browser
