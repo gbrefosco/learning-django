@@ -5,7 +5,8 @@ Basic project for learning purposes.
 Will be adding new stuff, trying out things and see how everything works out.
 
 For now:
-One application with a view returning a "Hello World!" string.
+ - One application named 'hello' with a view returning a "Hello World!" string.
+ - One application named 'users' with integrated django views for a basic User model.
 
 ### How to run:
 
